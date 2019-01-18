@@ -1,0 +1,5 @@
+# gem 'pg', '~> 0.18.4'
+# gem 'activerecord-postgresql-adapter', '~> 0.0.1'
+gem 'activerecord', '~> 5.0', '>= 5.0.0.1'
+gem 'pry'
+# gem 'activerecord-postgresql-adapter'
